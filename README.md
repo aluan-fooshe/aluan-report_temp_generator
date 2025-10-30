@@ -9,8 +9,8 @@ Python scripts and windows powershell scripts that automatically generate MLA/AP
 
 The contents that are listed here below was misplaced in the ```aluan-daily_log_entries/README.md```!
 
-- [aluan-report_temp_generator README.md](https://github.com/aluan-fooshe/aluan-report_temp_generator/blob/main/README.md)
-- [aluan-report_temp_generator repository](https://github.com/aluan-fooshe/aluan-report_temp_generator/)
+- [aluan-daily_log_entries README.md](https://github.com/aluan-fooshe/aluan-daily_log_entries/blob/main/README.md)
+- [aluan-daily_log_entries repository](https://github.com/aluan-fooshe/aluan-daily_log_entries/)
 #### 2. UTF-8 vs UTF-16
 
 The encoding of the ".txt file" is very important to list in this function in Filelist_workbook.py;
@@ -64,7 +64,7 @@ The issue you’ve described seems to be related to how Outlook on Windows 11 in
   Project Brief: [Carry_Assist_Robotic_Transport__ProjectBrief.pdf](Carry_Assist_Robotic_Transport__ProjectBrief.pdf)  
   Presentation: [Carry_Assist_Robotic_Transport__Slideshow.pdf](Carry_Assist_Robotic_Transport__Slideshow.pdf)
 
-<img src="" width="385px" align="center">
+<img src="CART__ProjectBrief_thmbnl.png" width="385px" align="center">
 
 If you are.... 
 - a classmate of mine in **S.C. Petersen**'s class
@@ -79,7 +79,7 @@ and are interested in reaching out to me and add yourselves to my stakeholders l
 
 aluan@ucsc.edu
 
-<img src="" width="385px" align="center">
+<img src="robotic-cart.png" width="385px" align="center">
 
 ----
 ### References
