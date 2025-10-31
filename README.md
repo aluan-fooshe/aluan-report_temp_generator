@@ -82,6 +82,10 @@ aluan@ucsc.edu
 <img src="robotic-cart.png" width="385px" align="center">
 
 ----
+
+https://robotics.omron.com/products/mobile-robots/ld-series/ 
+
+----
 ### References
 
 [1] Python Software Foundation, "Built-in Functions", Python 3.14.0 Documentation. 
